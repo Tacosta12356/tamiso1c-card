@@ -1,1 +1,2 @@
-# tamiso1c-card
+# card
+abra no pc
